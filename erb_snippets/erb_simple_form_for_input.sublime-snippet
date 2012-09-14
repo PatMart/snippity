@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[<%= f.input :${0:attribute} %>]]></content>
+  <tabTrigger>sfi</tabTrigger>
+  <scope>text.html.ruby</scope>
+  <description>(ERB) Simple Form Input</description>
+</snippet>
