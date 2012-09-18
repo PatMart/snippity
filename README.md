@@ -8,6 +8,7 @@ Sublime Text 2 snippets for things I end up typing a lot
 - its - it block stub
 - describe - describe block
 - let - let block
+- let! - let! block
 - factory - factory girl create
 - trait - trait block
 - pry - binding.pry
