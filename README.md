@@ -12,6 +12,10 @@ Sublime Text 2 snippets for things I end up typing a lot
 - trait - trait block
 - pry - binding.pry
 
+## Capybara Snippets
+
+- sao - save_and_open_page
+
 ## Jasmine Snippets
 
 - describe - describe block
