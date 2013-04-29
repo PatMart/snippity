@@ -17,8 +17,9 @@ Sublime Text 2 snippets for things I end up typing a lot
 
 - saop - save_and_open_page
 
-## Jasmine Snippets
+## Javascript Snippets
 
+- log - console.log()
 - describe - describe block
 - it - it block
 
