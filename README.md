@@ -6,6 +6,8 @@ Sublime Text 2 snippets for things I end up typing a lot.
 
 Clone the repo to `/YOUR_USER/Library/Application Support/Sublime Text 2/Packages/User/`.
 
+## Snippets
+
 ### RSpec Snippets
 
 - it - it block
