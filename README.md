@@ -1,8 +1,12 @@
 # Snippity
 
-Sublime Text 2 snippets for things I end up typing a lot
+Sublime Text 2 snippets for things I end up typing a lot.
 
-## RSpec Snippets
+## Setup
+
+Clone the repo to `/YOUR_USER/Library/Application Support/Sublime Text 2/Packages/User/`.
+
+### RSpec Snippets
 
 - it - it block
 - its - it block stub
@@ -13,21 +17,21 @@ Sublime Text 2 snippets for things I end up typing a lot
 - trait - trait block
 - pry - binding.pry
 
-## Capybara Snippets
+### Capybara Snippets
 
 - saop - save_and_open_page
 
-## Javascript Snippets
+### Javascript Snippets
 
 - log - console.log()
 - describe - describe block
 - it - it block
 
-## HTML Snippets
+### HTML Snippets
 
 - divc - div with class
 
-## ERB Snippets
+### ERB Snippets
 
 - # comment
 - = expression
